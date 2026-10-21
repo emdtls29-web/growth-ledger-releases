@@ -1,0 +1,11 @@
+{
+  "format": "growth-ledger-update-v1",
+  "packageName": "cn.personal.growthledger",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "minSdk": 26,
+  "apkBytes": 156072,
+  "apkUrl": "https://github.com/emdtls29-web/growth-ledger-releases/releases/download/v0.1.2/growth-ledger-0.1.2.apk",
+  "sha256": "a8625c991e835d41dca2a43494c9388009b269797ede840c83336df2de1a19e5",
+  "notes": "本次用于验证GitHub下载渠道；0.1.2仍内置旧更新地址，手机下载通过后再发布切换地址的新版。"
+}
