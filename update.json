@@ -1,11 +1,11 @@
 {
   "format": "growth-ledger-update-v1",
   "packageName": "cn.personal.growthledger",
-  "versionCode": 3,
-  "versionName": "0.1.2",
+  "versionCode": 9,
+  "versionName": "0.3.1",
   "minSdk": 26,
-  "apkBytes": 156072,
-  "apkUrl": "https://github.com/emdtls29-web/growth-ledger-releases/releases/download/v0.1.2/growth-ledger-0.1.2.apk",
-  "sha256": "a8625c991e835d41dca2a43494c9388009b269797ede840c83336df2de1a19e5",
-  "notes": "本次用于验证GitHub下载渠道；0.1.2仍内置旧更新地址，手机下载通过后再发布切换地址的新版。"
+  "apkBytes": 192700,
+  "apkUrl": "https://raw.githubusercontent.com/emdtls29-web/growth-ledger-releases/main/releases/0.3.1/growth-ledger-0.3.1.apk",
+  "sha256": "e13f6c8685601a5da621ea698675aa27f6411d48bfd62f51e4b5b26b3477aaba",
+  "notes": "切换软件更新的固定地址，支持在“设置 → 软件更新”检查、下载新版，并由本人确认系统安装。旧地址返回403的已安装版本需要先覆盖安装这一次渠道修复包。积分、流水和备份格式沿用0.3.0；先导出真实账本完整备份，不卸载、不清数据。手机完整更新流程尚待本人验证。"
 }
