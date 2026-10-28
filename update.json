@@ -1,11 +1,11 @@
 {
   "format": "growth-ledger-update-v1",
   "packageName": "cn.personal.growthledger",
-  "versionCode": 10,
-  "versionName": "0.4.0",
+  "versionCode": 11,
+  "versionName": "0.4.1",
   "minSdk": 26,
-  "apkBytes": 215732,
-  "apkUrl": "https://raw.githubusercontent.com/emdtls29-web/growth-ledger-releases/main/releases/0.4.0/growth-ledger-0.4.0.apk",
-  "sha256": "2cf1543430a3f0ecb5dc7dc9b9385f592d6e55a8ff918c5bdda887afe0c03c7a",
-  "notes": "改用U币：学习实际计时每累计10分钟1U币，零头跨次跨天保留；1U币对应1元商品价格。只按实际清单ID绑定学习计时和生活行动，生活分值首次确认后沿用，未设值不发币，旧默认8分停止用于新收入。学习采用账本内开始/暂停/结束，切页、后台或锁屏自动暂停。旧余额与流水数值保留，不重算历史。更新前导出完整备份，不卸载、不清数据。"
+  "apkBytes": 216220,
+  "apkUrl": "https://raw.githubusercontent.com/emdtls29-web/growth-ledger-releases/main/releases/0.4.1/growth-ledger-0.4.1.apk",
+  "sha256": "aef5c266b4af54d5efba97cff0f44d22668086e64f693c2c0d739d8ab4c9afbb",
+  "notes": "更新器优先使用同一GitHub仓库的API读取通知和APK，失败仅回退原地址一次，解决单一路径连接重置的问题；保留原签名和下载校验。包含0.4.0全部U币规则，旧余额/流水保留。手机0.3.1需这一次覆盖安装本修复版，之后在应用内检查更新；真机完整流程待验。更新前可导出完整备份，不卸载、不清数据。"
 }
